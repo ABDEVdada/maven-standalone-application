@@ -43,13 +43,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>aa relese Repo</name>
-	      <url>http://3.108.40.232:8081/repository/aa-relese/</url>
+	      <url>http://13.234.202.113:8082/akashbardole/repository/aa-relese/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>aa snapshot Repo </name>
-	      <url>http://3.108.40.232:8081/repository/aa-snapshot/</url>
+	      <url>http://13.234.202.113:8082/akashbardole/repository/aa-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
